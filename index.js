@@ -4,3 +4,4 @@ function addText() {
         newText.value = ""
     }
 }
+window.alert('Hello I am Pooja')
